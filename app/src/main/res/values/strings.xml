@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="searchbar_hint">Enter Code</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="favorite">favorite</string>
+    <string name="action_favorite">icon</string>
+    <string name="avatar_content_description">avatar</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="action_settings">setting</string>
+</resources>
